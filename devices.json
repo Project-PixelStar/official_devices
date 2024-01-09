@@ -1,0 +1,25 @@
+{
+  "devices": [
+    {
+      "codename": "munch",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Poco F4",
+      "maintainer_name": "Mudit",
+      "active": true
+    },
+    {
+      "codename": "lemonades",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9R",
+      "maintainer_name": "Tanuj Dhama",
+      "active": true
+    },
+    {
+      "codename": "camellia",
+      "vendor": "Redmi",
+      "model": "Redmi Note 10 ",
+      "maintainer_name": "Noah",
+      "active": true
+    }
+  ]
+}
