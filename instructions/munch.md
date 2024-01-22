@@ -16,7 +16,7 @@ Device maintainer: Mudit
 
 # Downloads:
 
-* ROM: [Download](https://sourceforge.net/projects/pixelstar/files/munch/Releases/)
+* ROM: [Download](https://www.pling.com/p/2066696/)
 * Recovery: [Download](https://orangefox.download/device/munch)
 * Firmware: [Download](https://xiaomifirmwareupdater.com/firmware/munch/)
 
