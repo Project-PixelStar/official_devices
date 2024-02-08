@@ -14,11 +14,18 @@
       "maintainer_name": "Tanuj Dhama",
       "active": true
     },
-    {
+{
       "codename": "camellia",
       "vendor": "Redmi",
       "model": "Redmi Note 10 ",
       "maintainer_name": "Noah",
+      "active": true
+    },
+    {
+      "codename": "stone",
+      "vendor": "Poco",
+      "model": "Poco X5 5g",
+      "maintainer_name": "takixamru",
       "active": true
     }
   ]
