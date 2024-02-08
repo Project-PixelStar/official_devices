@@ -16,7 +16,7 @@ Device maintainer: Amrito Das
 
 # Downloads:
 
-* ROM: [Download](https://www.pling.com/p/2066696/https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpixelstar%2Ffiles%2Fstone%2F)
+* ROM: [Download](https://www.pling.com/p/2066696/)
 * Recovery: [Download](https://www.pling.com/p/2117793/https%3A%2F%2Fsourceforge.net%2Fprojects%2Fwin-abs%2Ffiles%2Fmoonstone%2Ftwrp-3.7.1_12-0-moonstone.img)
 
 ## Note:
