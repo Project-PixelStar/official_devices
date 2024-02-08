@@ -14,6 +14,15 @@ Device maintainer: Mudit
 6. Reboot Recovery
 7. Flash the firmware
 
+# Method if u want to flash new version over old build
+
+1. Boot to Pixelstar recovery
+2. Apply updates
+3. Sideload the new build using adb [Requires PC ofc]
+4. Format data
+5. Reboot to system
+6. Reboot to fastboot and install custom recovery [Optional]
+ 
 # Downloads:
 
 * ROM: [Download](https://www.pling.com/p/2066696/)

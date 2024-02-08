@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1705495904,
-      "size": 2223448326,
-      "filehash": "7fb01fe4fb650c038d479ea20080078e",
-      "filename": "pixelstar-1.0-uday-munch-official-0553-20240122.zip",
-      "id": "f844c02b7ce2014d3b36414d731361472f3d4f32289153f44bf136cd27d5d640",
+      "datetime": 1707252071,
+      "size": 2258027690,
+      "filehash": "8d651d194b25cb35a808a9fcef5b5a7e",
+      "filename": "pixelstar-1.1-uday-munch-official-0935-20240208.zip",
+      "id": "89b49c831470c0173d8884de8846ef0ef55706fff9ac6c38b07688044755ff6c",
       "romtype": "official",
-      "version": "1.0",
-      "url": "https://sourceforge.net/projects/pixelstar/files/munch/uday/pixelstar-1.0-uday-munch-official-0553-20240122.zip/download"
+      "version": "1.1",
+      "url": "https://sourceforge.net/projects/pixelstar/files/munch/uday/pixelstar-1.1-uday-munch-official-0935-20240208.zip/download"
     }
   ]
 }
