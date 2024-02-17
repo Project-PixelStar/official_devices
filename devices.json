@@ -27,6 +27,13 @@
       "model": "Poco X5 5g",
       "maintainer_name": "takixamru",
       "active": true
-    }
+        },
+    {
+      "codename": "sakura",
+      "vendor": "Redmi",
+      "model": "Redmi 6 Pro",
+      "maintainer_name": "achu",
+      "active": true
+       }
   ]
 }
