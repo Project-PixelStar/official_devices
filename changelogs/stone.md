@@ -9,6 +9,22 @@ Device maintainer: Amrito Das
 - BB improves after 1-2 cycles
 - Dont Use Hyper OS firmware For Now
 
+# Febuary Update (HOTFIX) : 
+- A14 Official Update With Febuary Patch
+- Dolby And Viper4FX in built
+- Now Nfc is Fully Working 
+- Offline Charging Works Now
+- Forced Vulkan For Better Performence
+- No Youtube Lag & No Scrolling Lag 
+- Play Intergrity And Safety Net Passes Now
+- No Display Fliker 
+- 90 Fps Spoof Is Added
+- Added Clear Audio And It Has Something Surprise
+- Updated Dolby Codec 
+- VONR call is Now Working
+- Increased Smoothness X1000
+- Added Taki Care Should Perfrom Better
+
 # Febuary Update : 
 - A14 Official Update With Febuary Patch
 - Dolby And Viper4FX in built
