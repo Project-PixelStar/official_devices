@@ -1,5 +1,42 @@
 # Source Changelog #
 
+## v1.2-Uday ##
+- Addressed issue related to some files systems not getting detected
+- Add Illustration for dark mode page
+- Enabled Circle to Search
+- Ships with Gemini prebuilt
+- Advanced Theming settings
+- Animate the UsageProgressBarPreference
+- Implement background process killer
+- Rework lock gesture feature
+- Hide ADB and developer setting enable status
+- Extend protect sensitive info to MAC 
+- add Hidden SSID preference
+- add back AP Band preference into tether 
+- Introduce new refresh rate selector page settings
+- Move blur toggle to Display options.
+- Disable blur toggle with battery saver
+- Configurable 0, 90, 180 and 270 degree rotation
+- Let app lock use face unlock
+- Allow changing face unlock method when locked 
+- Catch NPE with android.view.ViewPropertyAnimator
+- Introduced Circular STD font
+- Drop Toggle to disable Ripple Effects
+- core: Configure SQLite to operate in MEMORY mode
+- restore Android 13 "pause work profile" behavior
+- Boost process priority during fork.
+- KeyStore: Update local attestation spoofing
+- Frameworks: Enable VoNR by default
+- SystemUI: Filter out duplicate notification icons on statusbar
+- LocalImageResolver: Stop the spam
+- QS: Open WifiPanel on LongClick
+- Settings: Add a toggle to force LTE_CA
+- Settings: Move Vo5G toggle right below VoLTE
+- HWUI: Use kMirror instead of kClamp
+- fixup! core: Workaround for ASI crashfixup! core: Workaround for ASI crash
+- PixelPropsUtils: Improve tablet spoofing
+- misc Optimizations
+
 ## v1.1-Uday ##
 - Merged February Patch
 - bump to v1.1
