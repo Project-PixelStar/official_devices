@@ -1,13 +1,22 @@
  ```
 Device name: Redmi Note 12 5G / Poco X5 5G
 Device codename: stone
-Device maintainer: Amrito Das
+Device maintainer: Amrito Das (Taki)
 ```
 
 # Notes:
 - Let the rom settle
 - BB improves after 1-2 cycles
 - Dont Use Hyper OS firmware For Now
+- Dont Enable Adaptive Refresh Rate
+
+# Febuary Update (Before QPR2) : 
+- A14 Official Update With Febuary Patch
+- Snyced With Letest Source Update
+- Added Dirac Audio
+- Improved Ram Management
+- No More Heating Issues In 8 GB veriants
+- Else Everything Is Same From Last Update 
 
 # Febuary Update (HOTFIX) : 
 - A14 Official Update With Febuary Patch
