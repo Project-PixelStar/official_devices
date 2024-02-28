@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1708691328,
-      "size": 1933978632,
-      "filehash": "d51316a841d7917a58a6ea9bce687855",
-      "filename": "pixelstar-1.1-uday-stone-official-1418-20240223.zip",
-      "id": "a510b3a1bc82597c19da40b0b7b89c747f1b49f49cbd81eadcbdfb2581c05beb",
+      "datetime": 1709122502,
+      "size": 1926739377,
+      "filehash": "01498e9fe167740b8fc9d98810f857a7",
+      "filename": "pixelstar-1.2-uday-stone-official-1218-20240228.zip",
+      "id": "0dd28b40b8dc2739a4ae97f535aa2d85703047f54c096f1138592529ae64dcf5",
       "romtype": "official",
-      "version": "1.1",
-      "url": "https://sourceforge.net/projects/pixelstar/files/stone/uday/pixelstar-1.1-uday-stone-official-1418-20240223.zip/download"
+      "version": "1.2",
+      "url": "https://sourceforge.net/projects/pixelstar/files/stone/uday/pixelstar-1.2-uday-stone-official-1218-20240228.zip/download"
     }
   ]
 }
