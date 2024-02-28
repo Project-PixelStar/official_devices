@@ -34,6 +34,13 @@
       "model": "Redmi 6 Pro",
       "maintainer_name": "achu",
       "active": true
+        }
+    {
+      "codename": "cupidr",
+      "vendor": "Realme",
+      "model": "Realme GT 5G",
+      "maintainer_name": "MNoxx",
+      "active": true
        }
   ]
 }
