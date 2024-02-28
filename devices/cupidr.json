@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1708808189,
-      "size": 2656424590,
-      "filehash": "e2c98b333ee4e2d6da25666f41197eab",
-      "filename": "pixelstar-1.1-uday-cupidr-official-2105-20240224.zip",
-      "id": "d92ee9e36854b7c61296d88741485189ea244f06470c40506ec026506eca5434",
+      "datetime": 1709071479,
+      "size": 2781401416,
+      "filehash": "b30edddf87e8329d4cb87e90baf634bc",
+      "filename": "pixelstar-1.2-uday-cupidr-official-2204-20240227.zip",
+      "id": "bddde7a150197051f35b7fab3510cb471b322fb2334de204fdd20c4fe9383d91",
       "romtype": "official",
-      "version": "1.1",
-      "url": "https://sourceforge.net/projects/pixelstar/files/cupidr/uday/pixelstar-1.1-uday-cupidr-official-2105-20240224.zip/download"
+      "version": "1.2",
+      "url": "https://sourceforge.net/projects/pixelstar/files/cupidr/uday/pixelstar-1.2-uday-cupidr-official-2204-20240227.zip/download"
     }
   ]
 }
