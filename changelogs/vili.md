@@ -14,3 +14,8 @@ Device maintainer: Jezzay97
 - Improved audio quality in the loudspeakers
 - KSU updated
 - Merged kernel lineageos 5.4.268
+# February - Hotfix :
+- KernelSU Updated
+- Change leica camera thanks to @Omar99A
+- Fixed bootanimation size
+- Added missing libraries for memecam
