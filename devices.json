@@ -34,13 +34,21 @@
       "model": "Redmi 6 Pro",
       "maintainer_name": "achu",
       "active": true
-        }
+        },
     {
       "codename": "cupidr",
       "vendor": "Realme",
       "model": "Realme GT 5G",
       "maintainer_name": "MNoxx",
       "active": true
+       },
+    {
+      "codename": "marble",
+      "vendor": "Xiaomi",
+      "model": "Poco F5 / Redmi Note 12T",
+      "maintainer_name": "Chaitanya",
+      "active": true
        }
+
   ]
 }
