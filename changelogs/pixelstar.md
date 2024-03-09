@@ -1,5 +1,19 @@
 # Source Changelog #
 
+## v1.3-Uday ##
+- February Security patch still
+- Spoof realme link
+- Various changes with spoofing
+- Add toggle for snapchat spoofing
+- add support of the Phone Link
+- fixup double tap to sleep gesture
+- Redesign Settings dashboard ui
+- Extend Battery info page
+- Move Battery information to power usage summary
+- Bring back Adaptive battery.
+- apn: Update for Telus MVNO's (Canada)
+- DeviceConfig: Enable Cinematic wallpaper effects
+
 ## v1.2-Uday ##
 - Addressed issue related to some files systems not getting detected
 - Add Illustration for dark mode page
