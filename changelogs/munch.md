@@ -17,6 +17,18 @@ Device maintainer: Mudit
 - Don't report bugs with custom kernels
 - Flash Global Firmware for better BB
 
+# v1.3 - Uday
+- Feb security patch
+- Switched to nexus kernel (N0K is WIP) (KSU Inbuild)
+- Fixed wired headphones
+- Touch control page in thermal profiles
+- audio: fixup audio io policy voip_rx flags
+- Build mapperextensions 1.2
+- rootdir: audio HAL: Optimize for Spatial Audio
+- Fix "/sys/ lines must have 5 or 6 entries"
+- Do not try to load kernel modules
+- some under the hood changes... 
+
 # v1.2
 - Switch to N0Kernel [KSU inbuilt]
 - Nuked KProfiles
