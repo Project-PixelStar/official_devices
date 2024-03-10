@@ -1,7 +1,7 @@
 ```
 Device name: Realme GT 5G
 Device codename: cupidr
-Device maintainer: MNoxx
+Device maintainer: MNoxx74
 ```
 
 # Notes:
