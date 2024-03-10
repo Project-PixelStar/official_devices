@@ -1,7 +1,7 @@
 ```
 Device name: Poco X5 5G / Redmi Note 12 5G
 Device codename: stone
-Device maintainer: Amrito Das
+Device maintainer:  Taki
 ```
 
 # Method:
