@@ -1,7 +1,7 @@
  ```
 Device name: Redmi Note 12 5G / Poco X5 5G
 Device codename: stone
-Device maintainer: Amrito Das (Taki)
+Device maintainer: Taki
 ```
 
 # Notes:
@@ -10,7 +10,14 @@ Device maintainer: Amrito Das (Taki)
 - Dont Use Hyper OS firmware For Now
 - Dont Enable Adaptive Refresh Rate
 
-# Febuary Update (Before QPR2) : 
+# March Update :
+- A14 Official Update With Febuary Patch (Before QPR2)
+- Update Colour Mode For The Device
+- Use Qcom Audio Effects For Bass boost
+- See Battery Health In Battery Section
+- Improved Stability & Smoothness
+
+# Febuary Update : 
 - A14 Official Update With Febuary Patch
 - Snyced With Letest Source Update
 - Added Dirac Audio
