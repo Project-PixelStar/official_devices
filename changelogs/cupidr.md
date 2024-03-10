@@ -8,6 +8,14 @@ Device maintainer: MNoxx74
 - Let the rom settle
 - BB improves after 1-2 cycles
 
+# March Update :
+- Update to v1.3
+- Switch to user build
+- Switch to inline kernel
+- Play integrity passes again
+- GPS improvements
+- Many More Changes
+
 # Febuary Update : 
 - Update to v1.2
 - A14 Initial Official Update With Febuary Patch

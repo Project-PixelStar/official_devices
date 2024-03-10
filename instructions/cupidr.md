@@ -45,7 +45,7 @@ Done very simple as that.
 
 # Downloads:
 
-* ROM: [Download](https://sourceforge.net/projects/pixelstar/files/cupidr/uday/)
+* ROM: [Download](https://www.pling.com/p/2066696/)
 * Recovery: [Download](https://drive.google.com/file/d/14elHLllnIrqncnT4m61ZJ5qAnM_gM67m/view?usp=drive_link)
 
 ## Note:
