@@ -19,3 +19,6 @@ Device maintainer: Jezzay97
 - Change leica camera thanks to @Omar99A
 - Fixed bootanimation size
 - Added missing libraries for memecam
+# March Update :
+- Update to v1.3
+- Play integrity passes again
