@@ -16,7 +16,7 @@ Device maintainer: Jezzay97
 
 # Downloads:
 
-* ROM: [Download]()
+* ROM: [Download](https://www.pling.com/p/2066696/)
 * Recovery: [Download](https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/vili/)
 
 ## Note:
