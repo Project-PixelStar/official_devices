@@ -7,12 +7,15 @@ Device maintainer: westpain
 # Flashing method:
 
 1. Flash the recovery
-2. Reboot to recovery
+2. Reboot to the recovery
 3. Flash the firmware
 4. Wipe all partitions except for USB OTG and SD card
 5. Flash the ROM
 6. Format data
-7. Boot into the system and... Enjoy!
+7. Reboot to the system
+8. Reboot to the recovery after booting
+9. Format data
+10. Reboot into the system, and... Enjoy!
  
 # Downloads:
 
