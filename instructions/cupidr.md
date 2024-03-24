@@ -34,6 +34,17 @@ Note: If the status stops at 47% don't panic since that's normal
 
 8. Go back to recovery then do a factory reset/format data, then reboot and enjoy!
 
+**Update**
+1. Reboot to recovery
+2. While in recovery, navigate to Apply update -> Apply from ADB
+3. adb sideload rom.zip (replace "rom" with actual filename)
+4. Reboot to system & Enjoy
+
+**OTA**
+1. Download the update from Updater
+2. Install it.
+3. Reboot and Enjoy
+
 If you want to root:
 Go to recovery
 Update via adb, then sideload the Magisk-v26.0.zip
