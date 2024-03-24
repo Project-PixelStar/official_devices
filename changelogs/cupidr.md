@@ -8,6 +8,14 @@ Device maintainer: MNoxx74
 - Let the rom settle
 - BB improves after 1-2 cycles
 
+# March Update 24-03-2024 :
+- OTA Pushed!!
+- Improve Dolby Atmos
+- Switch to Smooth Display
+- Added Charging Control
+- Oneplus Gallery in built
+- Many More Changes
+
 # March Update :
 - Update to v1.3
 - Switch to user build
