@@ -1,5 +1,16 @@
 # Source Changelog #
 
+## v2.0-Uday ##
+- May Patch & Android 14 OPR2 Release
+- Introducing Starfield 
+- Moved Spoofing Options Into Starfield
+- Added Clock Customization & Many More 
+- Added Toggles For Enabling & Disabling Privacy Indicators
+- Added Front & Icon Costomizations 
+- Added Themeing setiings In starfield
+- Introduced MacPaw-Fixel Font
+- Want To see More, Use It & Find Yourself
+
 ## v1.3-Uday ##
 - February Security patch still
 - Spoof realme link
