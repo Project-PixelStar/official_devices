@@ -7,8 +7,24 @@ Device maintainer: Taki
 # Notes:
 - Let the rom settle
 - BB improves after 1-2 cycles
-- Dont Use Hyper OS firmware For Now
 - Dont Enable Adaptive Refresh Rate
+
+# May Update :
+- A14 Official Update With May Patch (After QPR2)
+- Disable Auto Brightness & Always Data On By Defult
+- Go Back To Default Colour Mode For The Device
+- Added Moto-Dolby
+- Fixed Video Encoding Decoding Issue & Enabled Sceure Streaming
+- Add dav1d av1 decoder
+- Fix Battery Drain In Many Norms
+- Fixed Carrier Video Calling
+- Added 4 GB Zram
+- Switched To Wideline L1 For Netfix
+- Clear Speaker Plays For 60 Secs
+- Optimized Thermal For Device
+- Fixed Proper Battery wattage Showcase in Lockscreen
+- Improved Stability & Smoothness
+- Want To See More , Use It and Find It By Yourself
 
 # March Update :
 - A14 Official Update With Febuary Patch (Before QPR2)
