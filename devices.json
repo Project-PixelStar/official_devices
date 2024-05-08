@@ -22,6 +22,13 @@
       "active": true
     },
     {
+	"codename": "hanoip",
+	"vendor": "Motorola",
+	"model": "Motorola G60 / G40 Fusion",
+	"maintainer_name": "semisapeol",
+	"active": true
+    },
+    {
       "codename": "stone",
       "vendor": "Poco",
       "model": "Poco X5 5g",
