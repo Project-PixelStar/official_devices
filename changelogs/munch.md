@@ -5,7 +5,7 @@ Device maintainer: Mudit
 ```
 
 # Notes:
-- Dirty Flashable
+- CLEAN FLASH!!
 - Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/munch.md)
 - Flash 14.x regional Firmware
 - Let the rom settle
@@ -14,8 +14,21 @@ Device maintainer: Mudit
 - Leica Micam build in which fully functional
 - No Heating issues were found in testing
 - Dolby build in
-- Don't report bugs with custom kernels
+- Don't report bugs with custom kernels (DC Dimming will break)
 - Flash Global Firmware for better BB
+
+# v2.0 - Uday
+- Rebased DT
+- Switch to Star Kernel
+- KSU inbuilt
+- Spatial audio has been dropped
+- Dolby and Leica are inbuilt
+- Add Support for increased touch polling rate (Kernel Side support)
+- Adapt Part Switches for QPR2
+- Rom is compiled with LTO 
+- Add Support for KProfiles (Kernel Side Support) 
+- Move Thermal Profiles to System and add icon for it
+- Many under the hood changes...
 
 # v1.3 - Uday
 - Feb security patch
