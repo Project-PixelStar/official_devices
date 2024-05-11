@@ -63,6 +63,13 @@
       "maintainer_name": "westpain",
       "active": true
         }
+    {
+      "codename": "ice",
+      "vendor": "Realme",
+      "model": "Realme 9 Speed edition 5G",
+      "maintainer_name": "Abhayabhi4721",
+      "active": true
+        }
 
   ]
 }
