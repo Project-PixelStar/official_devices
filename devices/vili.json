@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1710042103,
-      "size": 2497457651,
-      "filehash": "dd64ff487d2bcdfb9ac572bdc032b3cd",
-      "filename": "pixelstar-1.3-uday-vili-official-1905-20240311.zip",
-      "id": "d24c2374cf9528dcbd0c1d78bab1420d277881bf3c3b75530b6c16c657d60b98",
+      "datetime": 1715372510,
+      "size": 2476613613,
+      "filehash": "a04fc546957f9d9d77a60629d5c8c93c",
+      "filename": "pixelstar-2.0-uday-vili-official-0152-20240511.zip",
+      "id": "5048ea356a02c8293bff3350e98fc6385412a57753fb989b42ddd2942ed23c7b",
       "romtype": "official",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/pixelstar/files/vili/uday/pixelstar-1.3-uday-vili-official-1905-20240311.zip/download"
+      "version": "2.0",
+      "url": "https://sourceforge.net/projects/pixelstar/files/vili/uday/pixelstar-2.0-uday-vili-official-0152-20240511.zip/download"
     }
   ]
 }
