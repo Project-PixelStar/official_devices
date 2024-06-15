@@ -1,5 +1,27 @@
 # Source Changelog #
 
+## v2.5-Uday ##
+- May Patch
+- Fixed up some system ui crashes
+- Add support for Signed builds and update FP so CTS passes (for now)
+- Introeduced quick pull down
+- Introduced Edge Light
+- Introduced Pulse
+- Add Haptics when tuning volume from rocker and per app volume panel
+- Fixed crash when changing APN
+- Changes in GMS
+- Redesign Volume Panel
+- Allowing setting ringtone for Sim2
+- Fix Black Theme on QS
+- Introduced Colored icons on status bar
+- Introduced Notification count
+- Introduced show media time
+- Introduced Annoying Notifications
+- Introduced Screen OFF Animations
+- Introduced background process killer
+- Add Notification stream in volume panel
+- Misc Optimizations and under the hood changes 
+
 ## v2.0-Uday ##
 - May Patch & Android 14 OPR2 Release
 - Introducing Starfield 
