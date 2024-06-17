@@ -62,14 +62,21 @@
       "model": "Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite / POCO M2 Pro",
       "maintainer_name": "westpain",
       "active": true
-        }
+        },
     {
       "codename": "ice",
       "vendor": "Realme",
       "model": "Realme 9 Speed edition 5G",
       "maintainer_name": "Abhayabhi4721",
       "active": true
-        }
+        },
+    {
+      "codename": "veux/peux",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 Pro + 5G / Poco X4 Pro 5G",
+      "maintainer_name": "Rex",
+      "active": true
+      }
 
   ]
 }
