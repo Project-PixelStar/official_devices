@@ -5,9 +5,9 @@ Device maintainer: Mudit
 ```
 
 # Notes:
-- CLEAN FLASH!!
+- CLEAN FLASH!! (Dirty Flashable from the latest test build)
 - Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/munch.md)
-- Flash 14.x regional Firmware
+- Flash HyperOS V816.0.1.0.ULMMIXM Firmware
 - Let the rom settle
 - BB improves after 1-2 cycles
 - DC Dimming needs kernel side support
@@ -16,6 +16,16 @@ Device maintainer: Mudit
 - Dolby build in
 - Don't report bugs with custom kernels (DC Dimming will break)
 - Flash Global Firmware for better BB
+
+# v2.5 - Uday
+- Rebased Device Tree 
+- Optimized kernel
+- Add option for "60HZ on landscape" in per-app-rr
+- Improve the design for termal profiles and per app rr pages
+- Optimized ART 
+- Fix Dolby on Bluetooth
+- Update blobs to HyperOS V816.0.1.0.ULMMIXM
+- Make signed builds
 
 # v2.0 - Uday
 - Rebased DT
