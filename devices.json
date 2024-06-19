@@ -76,7 +76,13 @@
       "model": "Redmi Note 11 Pro + 5G / Poco X4 Pro 5G",
       "maintainer_name": "Rex",
       "active": true
+        },
+    {
+      "codename": "sky",
+      "vendor": "Xiaomi",
+      "model": "Redmi 12 5G / Poco M6 Pro 5G",
+      "maintainer_name": "Suvojeet Sengupta",
+      "active": true
       }
-
   ]
 }
