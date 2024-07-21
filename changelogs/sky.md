@@ -4,12 +4,17 @@ Device codename: sky
 Device maintainer: Suvojeet Sengupta
 ```
 
-# Notes:
-- Clean flash
-- Initial official build
-- Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/sky.md)
-- Signed Build & need to Flash PIF module for play integrity
-- Display and sound improvements (wired earphones)
+# Changelogs
+- Clean flash Recommended Due to QPR3
+- Signed Build (Play integrity passed)
 - Fix Adaptive refresh rate
-- Support for XIG03 Model
-- Wait some time to settle
+- Switch to OSS libperfmgr
+- Add Mi sound
+- Updated Carrier config from HyperOS 1.0.5
+- Add Lift to wake
+- Updated blobs from 
+- Updated Blobs from V816.0.5.0.UMWINXM HyperOS
+- Fixed Low sound in Wired Headphones
+
+Credits
+• @lostark13 For base tree
