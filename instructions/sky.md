@@ -11,7 +11,7 @@ Device maintainer: Suvojeet Sengupta
 4. Format Data
 5. Reboot to System and Setup
 6. Reboot Recovery
-7. Flash the firmware according To The Device
+7. Flash the firmware according to mentioned in post
 
 # Downloads:
 
