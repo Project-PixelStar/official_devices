@@ -1,5 +1,30 @@
 # Source Changelog #
 
+## v3.0-Uday ##
+- July Security Patch (QPR3 Release)
+- Redesigned StarField
+- Improvements and addition in Intensity Based Haptics
+- Add toggle to disable haptics on Volume Button
+- More Pixel Features 
+- Added Quick Tap support
+- Make Google System updatable
+- Made Recents in Pixel Launcher Opaque/Blured (Depends on maintainer)
+- Dynamic voLTE/voWIFI icons
+- Redesigned FontPicker
+- Add status bar battery icon for Lorns IconPack
+- Update Google fonts prebuilts
+- Update icon packs for QPR3
+- Added some A15 features like notification snooze
+- Nuked Annoying Notifications (Buggy AF)
+- Allow disabling qs on secure lockscreen
+- Dev toggle to ignore app wallpaper dimming requests
+- Add a dev option to unlimit screenrecord filesize
+- Make sensitive QS Tile secure on secure lockscreen
+- More options in screen recorder qs tile
+- Fix AOD and pulsing scrim color 
+- Improved the design of Per App Volume
+- Some Optimizations and all the previous version features are included along with the changes I forgot to mention...
+
 ## v2.5-Uday ##
 - May Patch
 - Fixed up some system ui crashes
