@@ -83,6 +83,13 @@
       "model": "Redmi 12 5G / Poco M6 Pro 5G",
       "maintainer_name": "Suvojeet Sengupta",
       "active": true
+      },
+    {
+      "codename": "redwood",
+      "vendor": "Poco",
+      "model": "Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G",
+      "maintainer_name": "RDX463",
+      "active": true
       }
   ]
 }
