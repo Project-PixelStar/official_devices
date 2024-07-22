@@ -5,8 +5,19 @@ Device maintainer: MNoxx74
 ```
 
 # Notes:
+- CLEAN FLASH!!
+- Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/cupidr.md)
+- Included Firmware RMX2202_13.1.0.1810(EX01)
+- Dolby & Oplus camera build in
 - Let the rom settle
 - BB improves after 1-2 cycles
+
+# v3.0 - Uday
+- July security patch QPR3
+- Rebased Device Tree
+- Upstream kernel
+- Adapted Dolby & Oplus camera for QPR3
+- Make signed builds
 
 # March Update 24-03-2024 :
 - OTA Pushed!!
