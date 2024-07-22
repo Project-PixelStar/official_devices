@@ -5,7 +5,7 @@ Device maintainer: Mudit
 ```
 
 # Notes:
-- CLEAN FLASH!! (Dirty Flashable from the latest test build)
+- CLEAN FLASH!! Since QPR3 and some major changes
 - Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/munch.md)
 - Flash HyperOS V816.0.1.0.ULMMIXM Firmware
 - Let the rom settle
@@ -16,6 +16,17 @@ Device maintainer: Mudit
 - Dolby build in
 - Don't report bugs with custom kernels (DC Dimming will break)
 - Flash Global Firmware for better BB
+
+# v3.0 - Uday
+- Switched to Nova Kernel 
+- Switched to Neutron Clang
+- Addressed random system ui crash and reboots
+- Optimized Powerhint
+- Fixed Per app refresh rate bug
+- LDAC Support is removed
+- Adapted Dolby for QPR3
+- Added Uclamp Support
+- Add ripple animation for face unlock
 
 # v2.5 - Uday
 - Rebased Device Tree 
