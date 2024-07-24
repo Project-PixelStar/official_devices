@@ -91,5 +91,12 @@
       "maintainer_name": "RDX463",
       "active": true
       }
+{
+      "codename": "Spes",
+      "vendor": "Redmi",
+      "model": "Redmi Note 11",
+      "maintainer_name": "JassiV",
+      "active": true
+      }
   ]
 }
