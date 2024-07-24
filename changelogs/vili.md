@@ -3,6 +3,25 @@ Device name: Xiaomi 11T Pro
 Device codename: vili
 Device maintainer: Jezzay97
 ```
+# v3.0 - Uday
+- July security patch QPR3
+- Rebased device tree
+- Signed user build to pass play integrity by default
+- Addressed some sepolicy denials
+- Added Notch Bar Killer overlay
+- Use AOSP default Codec2/OMX ranks
+- Improved dolby audio config
+- Fixed thermal config path and permission for Xiaomi parts
+- Switched to vendor-defined display color modes
+- Added charging control and fastcharge support
+- Built with clang 18
+
+- Kernel:
+- switched to void kernel thanks to Omar
+- KernelSU by default
+- Improved scheduler
+- Overclock touch SPI bus to 10 MHz
+- Improved idle drain slightly
 
 # Notes:
 - CLEAN FLASH
