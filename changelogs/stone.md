@@ -1,13 +1,23 @@
  ```
 Device name: Redmi Note 12 5G / Poco X5 5G
 Device codename: stone
-Device maintainer: Taki
+Device maintainer: Nomi
 ```
 
 # Notes:
 - Let the rom settle
 - BB improves after 1-2 cycles
 - Dont Enable Adaptive Refresh Rate
+
+# july update:
+- Clean flash Recommended Due to QPR3
+- Signed Build (Play integrity passed)
+- Switch to OSS libperfmgr
+- drop adaptive color profile
+- Added hotspot ssid name
+- Add lecia 
+- added some tweak for performance 
+- minor misc change 
 
 # May Update :
 - A14 Official Update With May Patch (After QPR2)
