@@ -1,5 +1,33 @@
 # Source Changelog #
 
+## v3.2-Uday ##
+- Merged August Security Patch
+- Add Light/Dark Theme Bootanimation
+- Nuked Screen Off Animations (Glitchy)
+- Open mobile data usage from qsfooter
+- Introduced Pocket Mode
+- Updated Wallpaper (credits: [YoursWallpaper](https://t.me/Yourswallpapars))
+- Improvements in Free-Form windows and enable it by default
+- Allow Disable screenshot shutter sound 
+- Update screenshot sound
+- Use Groove Brightness slider (For Consistency with volumepanel)
+- Inlined Weather App from Pixel 9
+- Fixed issues with AndroidAuto
+- Introduce Reality Display engine
+- Addressed issue with gesture pill being stuck in landscape mode randomly
+- Apply monet to fingerprint authentication ripple animation
+- Update PIF to pass Device Integrity
+- Change monet color for privacy indicators
+- Make Collapsing Toolbar Scaling and Transparent
+- Allow enabling Clear Calling on Unsupported device using [FLAG](https://github.com/Project-PixelStar/Flags)
+- Update GMS and Mainline Module apex for August Patch
+- Optimize notification fade-in/out transition
+- Add dimens to set max offset of navigation bar burn-in protection
+- Improve Animation when unlocking
+- Improvements in StarField Design
+- Adressed issues with stock recovery
+- Various Optimization and Under the hood changes
+
 ## v3.0-Uday ##
 - July Security Patch (QPR3 Release)
 - Redesigned StarField
