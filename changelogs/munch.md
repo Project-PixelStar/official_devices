@@ -5,17 +5,28 @@ Device maintainer: Mudit
 ```
 
 # Notes:
-- CLEAN FLASH!! Since QPR3 and some major changes
+- DIRTY FLASHABLE!! (Clean Flash Recommended)
 - Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/munch.md)
-- Flash HyperOS V816.0.1.0.ULMMIXM Firmware
+- Flash HyperOS V816.1.0.3.0.ULMMIXM Firmware [Downlaod](https://xmfirmwareupdater.com/firmware/munch/stable/OS1.0.3.0.ULMMIXM/)
 - Let the rom settle
 - BB improves after 1-2 cycles
 - DC Dimming needs kernel side support
 - Leica Micam build in which fully functional
 - No Heating issues were found in testing
 - Dolby build in
-- Don't report bugs with custom kernels (DC Dimming will break)
+- Don't report bugs with custom kernels
 - Flash Global Firmware for better BB
+
+# v3.2 - Uday
+- Improved Powerhint
+- Add Clear Calling Support (Needs some testing since it was just a flag)
+- Updated blobs to HyperOS V816.1.0.3.0.ULMMIXM
+- Add Equalizer to XiaomiDolby & expose in launcher
+- rootdir: Set ro.boot.hardware.revision property
+- Improvements and fixes in 60HZ on Landscape
+- keylayout: Copy using Soong
+- Add back LDAC/LDHC support
+- Misc Under the hood changes
 
 # v3.0 - Uday
 - Switched to Nova Kernel 
