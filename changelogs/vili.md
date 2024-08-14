@@ -3,6 +3,20 @@ Device name: Xiaomi 11T Pro
 Device codename: vili
 Device maintainer: Jezzay97
 ```
+# v3.2 - Uday
+- Disable SF composition prediction model on 5.4 and lower
+- rootdir: Initial performance tuning
+- LMK Props: Force disable low ram config
+- avoid migrating foreground tasks to X1
+- Properly init qti perf hal
+- import dolby dax config by klozz
+- Update blobs from global V816.0.3.0
+- Some performance improvements
+
+- Kernel:
+- Updated to the latest void kernel changes
+- KernelSU Support
+
 # v3.0 - Uday
 - July security patch QPR3
 - Rebased device tree
