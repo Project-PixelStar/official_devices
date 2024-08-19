@@ -8,6 +8,14 @@ Device maintainer: Rex
 - Let the rom settle
 - BB improves after 1-2 cycles
 - No Heating issues were found in testing
+- Dirty flash possible from 3.0 to 3.2
+
+# August Update(19-08-2024) :
+- A14 Official Update with August Patch
+- Disable Wallpaper Zooming
+- Show all refresh rate options
+- Added a few props which possibly fixes qs lag
+- Worked on UI Smoothness
 
 # July Update(22-07-2024) :
 - A14 Official Update with July Patch (After QPR3)
