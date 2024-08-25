@@ -6,7 +6,7 @@
 
 2. You must have basic git (cherry-pick, squash, etc) knowledge.
 
-3. Your trees should be **clean** and should have **proper authorships** and commit names.
+3. Your trees should be **clean** and should have **proper authorships** and commit names and should be ready for random inspection.
 
 4. Your device sources **MUST** be open source for us.
 
@@ -20,11 +20,15 @@
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form.
 
-10. You **MUST** not ship OEM apps in trees.
- 
-11. You **MUST** meet all requirements as mentioned [here](requirements.md).
+10. You **MUST** not ship OEM apps or any blotwareapps in trees. (except OEM camera apps)
 
-If all is well, you may apply [here](https://github.com/Project-Pixelstar/official_devices/issues/new/choose)
+11. You should avoid making source changes through any scripts from device sources. and all the tracked repos must be from Project-Pixelstar ( contact core team members for exceptions)
+
+12. you must make use of all the opt-in features and device additions which can be found [here](https://github.com/Project-PixelStar/Flags).
+
+13. You **MUST** meet all requirements as mentioned [here](requirements.md).
+
+If all is well, you may apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfZ4gCy4CT-BXBk9ZEfJlKeV7pGr87LlPratn8KAu0-Msum3w)
 
 If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://telegram.me/Project_PixelStar)
 
