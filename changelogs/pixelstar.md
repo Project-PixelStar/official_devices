@@ -1,5 +1,19 @@
 # Source Changelog #
 
+## v3.3-Uday ##
+- Merged September Patch
+- Passes STRONG Integrity by default
+- Locked Bootloader Spoof
+- Update to P9 Spoofs
+- Update Bootanimation from P9
+- Add toggle to enable Monet Themed Bootanimation
+- Disable some Tensor Specific Device configs
+- Introduce Ad-Blocker
+- Remove useless addon.d file to Avoid detection as custom ROM
+- Updates and Improvements in Gamespace
+- Move Blurs toggle in Display Settings
+- Various Optimization and under the hood changes
+
 ## v3.2-Uday ##
 - Merged August Security Patch
 - Add Light/Dark Theme Bootanimation
