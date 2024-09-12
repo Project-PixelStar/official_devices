@@ -17,6 +17,16 @@ Device maintainer: Mudit
 - Don't report bugs with custom kernels
 - Flash Global Firmware for better BB
 
+# v3.3 - Uday
+- Removed Clear Calling
+- Switch to opengl
+- Addressed issue where refresh rate changes to 60hz on landscape for all the apps
+- Fixed TEE
+- STRONG Integrity and Locked Bootloader until google fcks up
+- Upsteamed NOVA Kernel
+- Fix corner cutouts in display
+- Minor improvements
+
 # v3.2 - Uday
 - Improved Powerhint
 - Add Clear Calling Support (Needs some testing since it was just a flag)
