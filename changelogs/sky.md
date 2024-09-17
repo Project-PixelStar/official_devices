@@ -4,6 +4,13 @@ Device codename: sky
 Device maintainer: Suvojeet Sengupta
 ```
 
+# Update 17/09/2024
+
+- DIRTY FLASHABLE!! (Clean Flash Recommended)
+- STRONG Integrity and Locked Bootloader
+- Updated to Stock kernel 5.10.198
+
+
 # Update 17/08/2024
 
 - OTA works over last build
