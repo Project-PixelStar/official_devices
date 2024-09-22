@@ -85,6 +85,13 @@
       "active": true
       },
     {
+      "codename": "garnet",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 13 Pro 5G / Poco X6 5G",
+      "maintainer_name": "JYR_RC",
+      "active": true
+      },
+    {
       "codename": "redwood",
       "vendor": "Poco",
       "model": "Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G",
