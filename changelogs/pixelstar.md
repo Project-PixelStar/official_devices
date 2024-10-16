@@ -1,5 +1,21 @@
 # Source Changelog #
 
+## v3.4-Uday ##
+- Merged October Patch (credits: [Lineage OS](https://github.com/lineageos))
+- Add 24 hrs. option to snooze times
+- Add Triluminous Display Engine
+- Remove Ad-Blocker
+- Add Cloudflare as default ntp server
+- disable safe volume everywhere, not just the US
+- Allow users to use all rotations
+- Brightness Tweaks
+- More notification icons on AOD screen
+- Add build date to device info
+- Show more than 4 items in the menus!
+- Introduce contextual dashboard messages
+- Various Optimization and under the hood changes
+- Updated Wallpaper (credits: [NEX](https://t.me/spesmynuts))
+
 ## v3.3-Uday ##
 - Merged September Patch
 - Passes STRONG Integrity by default
