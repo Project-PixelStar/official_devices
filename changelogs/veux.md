@@ -1,14 +1,22 @@
 ` ` `
 Device: Redmi Note 11 Pro + 5G / Poco X4 Pro 5G 
 Device code name : veux/peux
-Device maintainer: Rex
+Device maintainer: Prathamk07
 ` ` `
 
 # Notes:
 - Let the rom settle
 - BB improves after 1-2 cycles
 - No Heating issues were found in testing
-- Dirty flash possible from 3.0 to 3.2
+- Clean flash is recommended
+- Display section in settings crashes. Don't repetedly report the same bug.
+
+# October Update(18-10-2024) :
+- Bring back wallpaper zooming
+- Added props for smoother animations
+- Dolby and everything works
+- Recovery related issues has been solved as of 18-10-2024
+- Upgrade to latest sources
 
 # August Update(19-08-2024) :
 - A14 Official Update with August Patch
