@@ -4,6 +4,17 @@ Device codename: sky
 Device maintainer: Suvojeet Sengupta
 ```
 
+# Update 20/10/2024
+- Use led vibrator
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Swap to QTI USB init scripts
+- Disable proprietary listen sound model
+- Add hotword enrollment permissions
+- Fix low sound
+- Align display props with stock
+- Fix cpu variant runtime flag
+- Fix powerhint L3 node
+
 # Update 17/09/2024
 
 - DIRTY FLASHABLE!! (Clean Flash Recommended)
