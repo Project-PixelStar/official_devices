@@ -14,7 +14,14 @@
       "maintainer_name": "Tanuj Dhama",
       "active": true
     },
-{
+    {
+      "codename": "peridot",
+      "vendor": "Xiaomi",
+      "model": "Poco F6 / Redmi Turbo 3",
+      "maintainer_name": "Ramshell688",
+      "active": true
+    },
+    {
       "codename": "camellia",
       "vendor": "Redmi",
       "model": "Redmi Note 10 ",
