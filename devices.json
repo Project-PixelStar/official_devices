@@ -97,6 +97,13 @@
       "model": "Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G",
       "maintainer_name": "RDX463",
       "active": true
-      }
+      },
+      {
+        "codename": "sweet",
+        "vendor": "Xiaomi",
+        "model": "Redmi Note 10 Pro / Max",
+        "maintainer_name": "Goku san",
+        "active": true
+        }
   ]
 }
