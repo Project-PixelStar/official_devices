@@ -98,5 +98,12 @@
       "maintainer_name": "RDX463",
       "active": true
       }
+    {
+      "codename": "spartan",
+      "vendor": "realme",
+      "model": "realme GT NEO 3T",
+      "maintainer_name": "YP",
+      "active": true
+      }
   ]
 }
