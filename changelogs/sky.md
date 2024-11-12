@@ -3,6 +3,15 @@ Device name: Redmi 12 5G / Poco M6 Pro 5G
 Device codename: sky
 Device maintainer: Suvojeet Sengupta
 ```
+# Update 12/11/2024
+- Included BCR
+- Dirty Flasable
+- OTA pushed
+- Check Source Changelog [here](https://github.com/Project-PixelStar/official_devices/blob/14/changelogs/pixelstar.md)
+
+Credits:
+• Thanks to @Saifu_88 For testing the rom
+• Thanks to @jendermine , @lostark13 & @redducc
 
 # Update 20/10/2024
 - Use led vibrator
