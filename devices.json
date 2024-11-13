@@ -118,6 +118,13 @@
         "model": "Redmi Note 10 Pro / Max",
         "maintainer_name": "Goku san",
         "active": true
-        }
+        },
+      {
+        "codename": "lisa",
+        "vendor": "Xiaomi",
+        "model": "Xiaomi 11 Lite 5G NE / Mi 11 LE",
+        "maintainer_name": "ZAID KHANs",
+        "active": true
+      }
   ]
 }
