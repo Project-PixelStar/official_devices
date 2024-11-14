@@ -2,6 +2,10 @@
 #### Device Code Name: spes/spesn
 #### Device Maintainer: JassiV
 
+### Update: 14/11/2024 - Version 3.5
+
+- Changed Kernel to NaughtySilver
+
 ### Update: 25/10/2024 - Version 3.4
 
 - Reverted back to OSS Kernel 
