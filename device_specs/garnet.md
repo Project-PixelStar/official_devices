@@ -22,6 +22,6 @@ Camera (REDMI NOTE) | 200 MP, f/1.7, 23mm (wide), 1/1.4", 0.56µm, multi-directi
 Camera (POCO X6) | 64 MP, f/1.79, 25mm (wide), 0.7µm, PDAF, OIS,8 MP, f/2.2, 118˚ (ultrawide),2 MP, f/2.4, (macro)
 
 ## <p align="center"> Pixelstar info </p>
-* **Maintainer:**	  [JYR_RC](https://github.com/Garnet-X)
+* **Maintainer:**	  [Mohammad Kibria](https://github.com/kibria5)
 * **Supported versions:** Android 14
 * [Downloads](https://sourceforge.net/projects/pixelstar/files/garnet/)

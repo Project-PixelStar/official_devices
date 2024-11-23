@@ -1,18 +1,22 @@
  ```
 Device name: Redmi note 13 Pro 5G / Poco X6 5G
 Device codename: garnet
-Device maintainer: JYR_RC
+Device maintainer: Mohammad Kibria
 ```
 
 # Notes:
 - Clean flash recommended
 - Flash Guide [here](https://github.com/Project-PixelStar/official_devices/blob/14/instructions/garnet.md)
-- Let the rom settle
-- BB improves after 1-2 cycles
-- No Heating issues were found in testing
-- Dolby build in
+- Dolby Atmos Included
+- Miuicamera Included
 - Don't report bugs with custom kernels
-- Flash Global Firmware for better BB
+
+# v3.5 - Uday - Hotfix :
+- Update blobs from V816.0.17.0.UNRMIXM
+- Upgrade stock kernel from V816.0.17.0.UNRMIXM
+- Update vendor blobs from V816.0.17.0.UNRMIXM
+- A lot of fixes and Improvement
+- Increase system stability and smoothness 
 
 # v3.5 - Uday :
 - Integrity pass default

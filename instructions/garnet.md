@@ -1,7 +1,7 @@
  ```
 Device name: Redmi Note 13 Pro 5G / Poco X6 5G
 Device codename: garnet
-Device maintainer: JYR_RC
+Device maintainer: Mohammad Kibria
 ```
 
 # Method:
@@ -16,7 +16,8 @@ Device maintainer: JYR_RC
 # Downloads:
 
 * ROM: [Download](https://sourceforge.net/projects/pixelstar/files/garnet/uday/)
-* Recovery: [Download]Orangefox(https://orangefox.download/es-ES/device/garnet)
+* Aosp Recovery: [Download](https://sourceforge.net/projects/pixelstar/files/garnet/uday/recovery/recovery.img/download)
+* Orangefox Recovery: [Download](https://orangefox.download/es-ES/device/garnet)
 * Firmware: [Download](https://xmfirmwareupdater.com/firmware/garnet/)
 
 ## Note:
