@@ -13,8 +13,8 @@ Device maintainer: Mohammad Kibria
 
 # v3.5 - Uday - Hotfix :
 - Update blobs from V816.0.17.0.UNRMIXM
-- Upgrade stock kernel from V816.0.17.0.UNRMIXM
-- Update vendor blobs from V816.0.17.0.UNRMIXM
+- Upgrade kernel from V816.0.17.0.UNRMIXM
+- Update miuicamera from V816.0.17.0.UNRMIXM
 - A lot of fixes and Improvement
 - Increase system stability and smoothness 
 
