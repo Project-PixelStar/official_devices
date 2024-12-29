@@ -1,18 +1,19 @@
 {
-            "response": [
+        "response": [
                 {
-                        "maintainer": "REX",
+                        "maintainer": "アムリタ",
                         "oem": "Xiaomi",
                         "device": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
-                        "version": "3.5",
-                        "filename": "pixelstar-3.5-uday-veux-official-0712-20241123.zip",
-                        "download": "https://sourceforge.net/projects/pixelstar/files/veux/uday/pixelstar-3.5-uday-veux-official-0712-20241123.zip/download",
-                        "timestamp": 1732345963,
-                        "md5": "4871126b574099da0ef010c569a3f4e9",
-                        "sha256": "36c71b88ded30be68509c0c985fc2364109e4e51",
-                        "size": 2746331445,
-                        "forum": "https://xdaforums.com/f/",
-                        "telegram": "Prathamk7"
+                        "version": "3.6-LTS",
+                        "filename": "pixelstar-3.6-LTS-uday-veux-official-0542-20241229.zip",
+                        "download": "https://sourceforge.net/projects/pixelstar/files/veux/uday/pixelstar-3.6-LTS-uday-veux-official-0542-20241229.zip/download",
+                        "timestamp": 1735450735,
+                        "md5": "29e6a90e7825b54d817276be4a23583c",
+                        "sha256": "9233c3bac66caf4765169eb59141aa4b0d22c31250ef1566ac1dc876240de8cb",
+                        "size": 2464928195,
+                        "buildtype": "monthly",
+                        "forum": "https://xdaforums.com/t/rom-14-veux-official-pixelstar-aosp-stable.4710537/",
+                        "telegram": "amritokun"
                 }
         ]
 }

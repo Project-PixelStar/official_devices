@@ -9,10 +9,25 @@ Device maintainer: Prathamk07 x Amrito Das
 - BB improves after 1-2 cycles
 - No Heating issues were found in testing
 - Clean flash is recommended
-- Display section in settings crashes. Don't repetedly report the same bug.
+- After flashing the rom wait for 10 mints to take screenshots and take pictures from camera to send any media via any apps
+- Dirac is buggy , will be fixed with android 15 
+
+# December Update(29-12-2024) :
+- Sync with letest source
+- Dolby Does Present But Dirac is there
+- Ships with paimon kernel
+- Upgrade to latest sources
+- Kernel Upreved To - 5.4.284
+- Increase Perf in kernel
+- Drop NTFS3 drivers
+- Update to V816.0.12.0.TKCMIXM
+- Disable logspams from Kernel
+- Introduce OnePlus 3 fingerprintd thaw hack
+- KernelSU is not present in the kernel
+- Fixed Display Crash In Settings
 
 # November Update(23-11-2024) :
-- Switched to @Takixamru's Trees
+- Switched to @amritokun's Trees
 - Kanged Carrier Config From Nothing
 - Dolby Does Present But Dirac is there
 - Ships with paimon kernel
