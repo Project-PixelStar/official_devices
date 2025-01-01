@@ -39,6 +39,9 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All devices with a Fingerprint Sensor MUST support the Fingerprint Sensor if the stock OS supports it with Marshmallow or higher Android versions.
 * All devices with a Fingerprint Sensor SHOULD support the Fingerprint Sensor if the stock OS supports it for all other Android versions.
 
+## Face Unlock
+* All devices with a Face Unlock SHOULD support the Face Unlock if the stock OS supports it for all other Android versions.
+
 ## Accelerometer
 * All devices with an accelerometer MUST support the accelerometer.
 
@@ -55,7 +58,7 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 * All other sensors supported by a device’s stock OS SHOULD be supported.
 
 ## SELinux status
-* All devices MUST be configured for SELinux Enforcing. Exceptions MAY be made for this.
+* All devices MUST be configured for SELinux Enforcing.
 
 ## Additional Features
 * All devices SHOULD support LiveDisplay. Exceptions MAY be made for this.
@@ -68,8 +71,5 @@ The use of “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT
 
 ## Stability
 * If your build is deemed unstable by the team you may not be allowed to maintain officially.
-
-## Exceptions
-* Exceptions MAY be made for some of these mentioned requirements.
 
 This document uses work from LineageOS' [device support requirements](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md) which is licensed under CC-BY-3.0, some modifications were made to it.

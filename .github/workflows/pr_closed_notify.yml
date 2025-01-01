@@ -3,7 +3,7 @@ name: Pull Request Merged Notifier
 on:
   pull_request:
     types:
-      - closed
+      - merged
 
 jobs:
   pull_req:

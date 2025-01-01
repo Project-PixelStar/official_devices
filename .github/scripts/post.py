@@ -132,7 +132,6 @@ def get_info(ID):
         msg += f"Device Name: {OEM} {DEVICE_NAME} ({DEVICE_CODENAME})\n"
         msg += f"Maintainer: {MAINTAINER}\n"
         msg += f"Date Time: {DATE_TIME}\n"
-        # msg += f"Download URL: {DOWNLOAD_URL}\n"
         msg += f"Size: {SIZE}G\n"
         msg += f"MD5: {MD5}\n"
         msg += f"SHA256: {SHA256}\n"
@@ -173,7 +172,7 @@ def create_buttons(information):
     buttons = InlineKeyboardMarkup(row_width=3)
     
     # Buttons for Channel, XDA, Download, and Support
-    button_download = InlineKeyboardButton("Download", url=information['download'])
+    button_download = InlineKeyboardButton("Download", url="https://project-pixelstar.xyz/downloads/")
     button_channel = InlineKeyboardButton("Channel", url="https://t.me/pixelstarchannel")  
     button_xda = InlineKeyboardButton("XDA", url=information['xda'])
     button_support = InlineKeyboardButton("Community Chat", url="https://t.me/Project_PixelStar")
@@ -182,7 +181,7 @@ def create_buttons(information):
 
 
     # Add all buttons to the InlineKeyboardMarkup with specified row width
-    buttons.add(button_download,button_donate)
+    buttons.add(button_download, button_donate)
     buttons.add(button_channel, button_xda)
     buttons.add(button_support, button_screenshot)
 
