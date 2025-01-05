@@ -110,7 +110,7 @@ Redmi 12 5G / Poco M6 Pro 5G (sky) supported by Suvojeet Sengupta
 Redmi K40S/POCO F4 (munch) supported by Mudit
 Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) supported by Goku San
 Redmi Note 11/Redmi Note 11 NFC (spes) supported by JASSI V
-Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) supported by REX
+Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) supported by アムリタ
 Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G (redwood) supported by Thereache
 Redmi Note 13 Pro 5G/Poco x6 5G (garnet) supported by Mohammad kibria
 Xiaomi 11 Lite 5G NE / Mi 11 LE (lisa) supported by Zaid Khan
